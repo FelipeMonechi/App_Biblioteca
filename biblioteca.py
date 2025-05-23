@@ -94,5 +94,5 @@ def menu():
         else:
             print("Opção inválida.\n")
 
-# INICIAR O MENU
+# INICIAR O   MENU
 menu()
